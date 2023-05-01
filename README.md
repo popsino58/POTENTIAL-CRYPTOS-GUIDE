@@ -1,4 +1,4 @@
-        POTENTIAL-CRYPTOS-GUIDE
+      POTENTIAL-CRYPTOS-GUIDE
 
 Table Of Contents:
 What It Is A Cryptocurrency? 
